@@ -1,2 +1,3 @@
-# hyper-blockchain-dapp-17hu
-Automated issue comment bot repository
+# Hyper Blockchain Dapp 17Hu
+
+Automated issue comment bot repository.
